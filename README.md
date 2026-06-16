@@ -1,6 +1,6 @@
 # Olá, eu sou a Beatriz Mineko Centurião Tanaka 👋
 
-### Desenvolvedora Full Stack em formação | Python • Java | Campo Grande, MS
+### Desenvolvedora Full Stack em formação 
 
 > *"Tecnologia é a ponte entre o que somos e o que podemos construir."*
 
