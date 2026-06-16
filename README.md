@@ -71,7 +71,6 @@ Atuar como **Desenvolvedora Full Stack Júnior**, contribuindo em projetos reais
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=beatrizmcenturiaotanaka&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizmcenturiaotanaka&layout=compact&langs_count=6&theme=tokyonight)
 
 </div>
 
